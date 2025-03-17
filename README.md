@@ -34,11 +34,11 @@ This project provides valuable insights for game developers, publishers, and mar
 
 **🌍 Regional Sales Insights**
 
-+ Europe’s peak (2007-2011) reached $200M/year but declined after 2015 → Opportunity: Remaster and digitally re-release classic titles.
++ Europe’s peak (2007-2011) reached $200M/year but declined after 2015 
 
-- Japan’s market collapsed post-2013 due to mobile gaming dominance → Solution: Focus on handheld-friendly RPGs and action games.
+- Japan’s market collapsed post-2013 due to mobile gaming dominance
 
-* Emerging markets showed promise (2006-2011) but lost momentum after 2012 → Growth Strategy: Invest in cloud gaming, regional pricing, and free-to-play models.
+* Emerging markets showed promise (2006-2011) but lost momentum after 2012
 
 **🎮 Genre Trends**
 
