@@ -1,5 +1,5 @@
 # Apex-Realm-Video-Games-Report
-![Corrected Dashboard Three](https://github.com/user-attachments/assets/61cd6a09-3b5d-4b50-92c5-592e346e3bba)
+![Apex Realm Games Dashboard](https://github.com/user-attachments/assets/4119eae7-ee4b-48f0-a697-c8b85536821e)
 
 
 ## Overview
